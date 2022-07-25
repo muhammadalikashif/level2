@@ -1,0 +1,146 @@
+body{
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-left: 0px;
+  text-align: center;
+}
+h2{
+  font-size: 50px;
+  margin-top: 0;
+  font-family: "Cursive", "Lucida Console", "Courier New", monospace;
+}
+hr{
+
+  width: 25%;
+  border: 10px dotted;
+  border-style: none none dotted;
+  color: #54BAB9;
+}
+p{
+  font-size: 25px;
+  font-family: "Cursive", "Lucida Console", "Courier New", monospace;
+
+}
+.cool{
+  position: relative;
+  margin:auto;
+}
+.top-container{
+  background-color: #99C4C8;
+  padding: 20px;
+}
+.middle-container{
+  background-color: #9CB4CC;
+  padding: 20px;
+}
+.skillsdiv{
+  background-color: #DFE8CC;
+  position: relative;
+  padding: 20px;
+  height: 900px;
+}
+.contactpara{
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+.skillspara{
+  display: inline;
+  float: right;
+  width: 50%;
+  padding: 5px;
+  margin: 5px;
+  padding-right: 100px;
+  text-align: left;
+}
+.hobbies{
+  font-size: 35px;
+  color: #810955;
+  text-align: left;
+  margin-top: 300px;
+  margin-left: 110px;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+
+  text-align: center;
+  text-decoration: none;
+
+}
+.fa:hover {
+  opacity: 0.7;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-instagram {
+  background: #FC9918;
+  color: white;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.codinganddev{
+  font-size: 35px;
+  color: #810955;
+  text-align: left;
+  margin-left: 630px;
+}
+.contactheader{
+  color: #4C6264;
+}
+.skillhead{
+  padding-top: 50px;
+}
+.prog{
+  position: relative;
+  display: inline;
+  margin-left: 100px;
+  margin-top: 50px;
+  float: left;
+}
+.nflogo{
+  position: relative;
+  display: inline;
+  margin-left: 100px;
+  margin-top: -50px;
+  float: right;
+}
+.hobbypara{
+  display: inline;
+  float: left;
+  width: 50%;
+  padding: 5px;
+  margin: 5px;
+  padding-left: 100px;
+  text-align: left;
+
+}
+.umm{
+
+  width: 10%;
+  border: 10px dotted;
+  border-style: none none dotted;
+  color: #3F4E4F;
+
+}
+.skills{
+  text-align: center;
+  font-family: monospace;
+}
+.touch{
+  text-align: center;
+  color: #4C6264;
+
+}
+.last{
+  background-color: #99C4C8;
+  text-align: center;
+
+}
